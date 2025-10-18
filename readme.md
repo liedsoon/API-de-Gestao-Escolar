@@ -15,11 +15,14 @@ Este projeto é uma API desenvolvida com FastAPI para gerenciar alunos, cursos e
 
 ## Passos para subir o projeto
 
-1. **Faça o download do repositório:**
-   [Clique aqui para realizar o download]()
+1.
+   **Faça o download do repositório:**
+   [Clique aqui para realizar o download](https://github.com/liedsoon/API-de-Gestao-Escolar/archive/refs/heads/main.zip)
 
    **Clone o repositório:**
-   [Clique aqui para clonar o repositório]()
+   ```sh
+   git clone https://github.com/liedsoon/API-de-Gestao-Escolar.git
+   ```
 
 2. **Crie um ambiente virtual:**
    ```sh
